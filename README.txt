@@ -1,0 +1,1 @@
+A simple Micropython script designed to run on an ESP8266 that reads the state of switches and emails that info twice a day.  Originally designed to work with hardware that held drills to make sure they were all returned at the end of the day.  Not actively maintained.
